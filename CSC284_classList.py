@@ -4,7 +4,7 @@
 This program is modified by each CSC284 student in the following way:
 
 1. adding their name to the list below
-2. printing the list
+2. run the program and print the list
 3. update the program in HJMoore11/CSC284
 
 '''
