@@ -12,8 +12,11 @@ This program is modified by each CSC284 student in the following way:
 
 CSC284_2025SP=[
     'Moore, Joel',
-    'Student, Test',
+
+    'Student, Test'
+    'Aguirre, Jason'  # Added my name
     'Muin, Emmanuel'
+
 ]
 
 # ============================sort the list
